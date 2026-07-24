@@ -1,0 +1,4 @@
+Create a professional Markdown report using only the supplied verified data.
+Clearly label facts and observations. Do not resolve conflicts, fill missing
+values, or introduce external knowledge. Every major conclusion must state a
+High, Medium, or Low confidence based on source count and consistency.
